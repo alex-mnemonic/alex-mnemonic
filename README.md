@@ -1,6 +1,6 @@
 <h1>Hi, I'm Alex! <br/>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Here are my Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/alex-mnemonic/ActiveDirectoryLab)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
