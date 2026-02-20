@@ -1,4 +1,4 @@
-<h1>Hi, I'm Alex! <br/>
+<h1>Hey, I'm Alex! <br/>
 
 <h2>👨‍💻 Here are my Cybersecurity Projects:</h2>
 
