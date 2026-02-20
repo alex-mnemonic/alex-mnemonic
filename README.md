@@ -4,7 +4,7 @@
 
 - [Active Directory Home Lab](https://github.com/alex-mnemonic/ActiveDirectoryLab)
 - [Malware Analysis Lab](https://github.com/alex-mnemonic/MalwareAnalysisLab)
-- [Vulnerability Management and Threat Hunting Projects](https://github.com/alex-mnemonic/VulnerabilityManagementThreatHunting)
+- [Vulnerability Management and Threat Hunting Project](https://github.com/alex-mnemonic/VulnerabilityManagementThreatHunting)
 
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
@@ -18,7 +18,15 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Zip Cracker](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [DDoS Tool](https://)
+  - [Clipboard copy](https://)
+  - [Keylogger](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Port Scanner](https://)
+  - [Location Tracker](https://)
+  - [NFC Cracker](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [WiFi Extractor](https://)
+
 
 <h2> These are my Certifications:</h2>
 
