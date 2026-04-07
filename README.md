@@ -1,6 +1,6 @@
 <h1>Hey, I'm Alex! <br/>
 
-<h2>👨‍💻 Here are my Cybersecurity Projects:</h2>
+<h2>Here are my Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/alex-mnemonic/ActiveDirectoryLab)
 - [Malware Analysis Lab](https://github.com/alex-mnemonic/MalwareAnalysisLab)
