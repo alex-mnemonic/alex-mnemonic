@@ -1,10 +1,15 @@
 <h1>Hey, I'm Alex! <br/>
 
-<h2>Here are my Cybersecurity Projects:</h2>
+<h2>Here are my Projects:</h2>
 
-- [Active Directory Home Lab](https://github.com/alex-mnemonic/ActiveDirectoryLab)
-- [Malware Analysis Lab](https://github.com/alex-mnemonic/MalwareAnalysisLab)
-- [Vulnerability Management and Threat Hunting Project](https://github.com/alex-mnemonic/VulnerabilityManagementThreatHunting)
+- <b>Cybersecurity</b>
+
+  - [Active Directory Home Lab](https://github.com/alex-mnemonic/ActiveDirectoryLab)
+  - [Malware Analysis Lab](https://github.com/alex-mnemonic/MalwareAnalysisLab)
+  - [Vulnerability Management and Threat Hunting Project](https://github.com/alex-mnemonic/VulnerabilityManagementThreatHunting)
+
+- <b>C++</b>
+  - [ESP32-CAM Timelapse](https://github.com/alex-mnemonic/ESP32-CAM-Timelapse)
 
 - <b>Python</b>
   - [Zip Cracker](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
